@@ -5,7 +5,7 @@
 
 ### Exercise 
 
-- Create a Mongoose database with 2 related models - Companies, Drivers, and Routes
+- Create a Mongoose database with 3 related models - Companies, Drivers, and Routes
 - Each company should have a Name and a Headquarters Location, and own a number of Drivers
 - Drivers need names, hourly wages, a boolean that says whether or not they are Class A Licenced, and own a number of Routes
 - Routes need a starting and ending location, a distance in miles, an expected time needed, and a boolean of whether or not the route is complete and the package is delivered
